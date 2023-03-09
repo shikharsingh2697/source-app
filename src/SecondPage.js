@@ -28,6 +28,11 @@ export const SecondPage = () => {
           })
       })
       console.log(res);
+      if(res.status===201){
+        alert("Saved successfully");
+      }else{
+        alert("Error: Could not save")
+      }
       
   }
 

@@ -19,6 +19,10 @@ const router = createBrowserRouter([
   {
     path:'/firstpage',
     element: <FirstPage />
+  },
+  {
+    path:'/secondpage',
+    element: <SecondPage />
   }
 ]);
 
