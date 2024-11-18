@@ -1,7 +1,6 @@
 # Pull Request details
 
 Please go the the `Preview` tab and select the appropriate sub-template if required:
-
 * [TAI Template](?expand=1&template=tai.md)
 
 
