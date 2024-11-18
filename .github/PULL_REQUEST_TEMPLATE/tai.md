@@ -3,6 +3,7 @@
 
 ## JIRA Ticket
 <!-- Link to JIRA Ticket -->
+https://letsdeel.atlassian.net/browse/TAI-XXX
 
 ## Type of Change
 <!-- Check all that apply -->
