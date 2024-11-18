@@ -40,8 +40,6 @@ https://letsdeel.atlassian.net/browse/TAI-XXX
 References:
 - Conventions: https://wiki.deel.network/i/4964
 - Best practicies: https://wiki.deel.network/i/4969
-- - Conventions: https://wiki.deel.network/i/4964
-- - Best practicies: https://wiki.deel.network/i/4969
 
 ## UI/UX Changes?
 - [ ] Yes
